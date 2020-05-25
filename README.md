@@ -9,7 +9,7 @@ Add the following to pubspec.yaml
 ```yaml
 dependencies:
 ---
-primary_button: ^0.0.1
+primary_button: ^0.1.0
 ```
 
 ## Usage Example
