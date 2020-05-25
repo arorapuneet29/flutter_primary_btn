@@ -36,16 +36,15 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-           PrimaryButton(
-                        onPressed:() => print("tapped"),
-                        fontSize:18,
-                        textColor: Color(0xff212121),
-                        bgColor:Colors.green,
-                        width:290,
-                        height:50,
-                        buttonLabel: "START PLAYING",
-                      ),
- 
+            PrimaryButton(
+              onPressed: () => print("tapped"),
+              fontSize: 18,
+              textColor: Color(0xff212121),
+              bgColor: Colors.green,
+              width: 290,
+              height: 50,
+              buttonLabel: "START PLAYING",
+            ),
           ],
         ),
       ),
