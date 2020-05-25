@@ -1,8 +1,8 @@
 name: primary_button
 description: A new Flutter package help developer to use stylish primary buttons
-version: 0.0.1
-author:
-homepage:
+version: 0.0.2
+# authors: Puneet arora <puneet.arora@moonraft.com>
+homepage: https://github.com/arorapuneet29/flutter_primary_btn
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

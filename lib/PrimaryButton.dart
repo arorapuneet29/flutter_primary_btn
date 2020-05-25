@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 class PrimaryButton extends StatelessWidget {
-
   /// This is the button label text
   final String buttonLabel;
 

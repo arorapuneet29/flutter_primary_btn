@@ -1,3 +1,7 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - Release
 
-* TODO: Describe initial release.
+* A customizable primary button 
+
+## [0.0.2] - Release
+
+* adding formated coded
