@@ -32,8 +32,8 @@ import 'package:primary_btn/PrimaryButton.dart';
                         buttonLabel: "START PLAYING",
                       ),
 ```
-
+#### screenshot example
 ![Package demo](screenshot.png) 
 
-**Refer to [example folder](example/README.md) and the source code for more information.**
-# flutter_primary_btn
+**Refer to [git repo ](https://github.com/arorapuneet29/flutter_primary_btn) and the source code for more information.**
+
